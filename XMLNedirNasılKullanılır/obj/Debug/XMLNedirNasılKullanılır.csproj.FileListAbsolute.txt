@@ -1,0 +1,7 @@
+C:\Users\Huawei\source\repos\XMLNedirNasılKullanılır\XMLNedirNasılKullanılır\bin\Debug\XMLNedirNasılKullanılır.exe.config
+C:\Users\Huawei\source\repos\XMLNedirNasılKullanılır\XMLNedirNasılKullanılır\bin\Debug\XMLNedirNasılKullanılır.exe
+C:\Users\Huawei\source\repos\XMLNedirNasılKullanılır\XMLNedirNasılKullanılır\bin\Debug\XMLNedirNasılKullanılır.pdb
+C:\Users\Huawei\source\repos\XMLNedirNasılKullanılır\XMLNedirNasılKullanılır\obj\Debug\XMLNedirNasılKullanılır.csproj.AssemblyReference.cache
+C:\Users\Huawei\source\repos\XMLNedirNasılKullanılır\XMLNedirNasılKullanılır\obj\Debug\XMLNedirNasılKullanılır.csproj.CoreCompileInputs.cache
+C:\Users\Huawei\source\repos\XMLNedirNasılKullanılır\XMLNedirNasılKullanılır\obj\Debug\XMLNedirNasılKullanılır.exe
+C:\Users\Huawei\source\repos\XMLNedirNasılKullanılır\XMLNedirNasılKullanılır\obj\Debug\XMLNedirNasılKullanılır.pdb
